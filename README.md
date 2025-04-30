@@ -17,7 +17,7 @@ Breakdown:
 
 - Use ConnectFourBoard to model the 2D grid and manage piece placement
 
-- Create a Player class to represent each participant with a symbol (e.g., 'X' or 'O')
+- Create a Player class to represent each participant with a symbol (e.g., '<3' or ':)')
 
 - Handle move validation, board updates, and player input in real-time
 
