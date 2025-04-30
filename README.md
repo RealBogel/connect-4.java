@@ -1,4 +1,4 @@
-Connect Four
+# Connect Four
 This Java assignment was to implement a terminal-based version of the classic Connect Four game, where two players alternate dropping pieces into a 7-column, 6-row board in an attempt to connect four of their symbols in a row—horizontally, vertically, or diagonally.
 
 Objectives:
